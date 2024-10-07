@@ -2,7 +2,7 @@
 
 #### 2024 하나금융티아이 채용연계형 교육 최종프로젝트
 
-[프로젝트 홈페이지](/http://hana1qct.info)
+[프로젝트 홈페이지](http://hana1qct.info)
 
 # 1. 프로젝트 기획서
 
@@ -84,7 +84,7 @@
 
 ### 3-1. 발표 ppt
 [발표자료<img src="https://github.com/user-attachments/assets/425f5c3a-8b63-43fe-a80f-91c8306d0315" />
-](/) <br/>
+](/최종프로젝트발표자료.pdf) <br/>
 
 
 ### 3-2. 시연 동영상
