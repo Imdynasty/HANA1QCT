@@ -1,0 +1,28 @@
+.my-accounts h3 {
+  position: relative;
+  transition: all 0.3s ease-in-out;
+  padding-left: 0;
+}
+
+.my-accounts h3::after {
+  content: "";
+  position: absolute;
+  bottom: -3px; /* h3 텍스트 바로 아래 위치 */
+  left: 0;
+  width: 0; /* 기본적으로 보이지 않음 */
+  height: 2.5px; /* 밑줄 두께 */
+  background-color: black; /* 밑줄 색상 */
+  transition: width 0.3s ease-in-out;
+}
+
+/* exchange-tab에 마우스 오버되었을 때 h3의 가상 요소 스타일 변경 */
+.my-accounts:hover h3::after {
+  width: 10%; /* 밑줄 전체 길이로 확장 */
+}
+
+.article {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}

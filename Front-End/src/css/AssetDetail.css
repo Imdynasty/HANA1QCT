@@ -1,0 +1,82 @@
+.ant-modal-content {
+  width: 800px;
+  height: 90vh; /* 모달의 높이를 화면 높이의 90%로 설정 */
+  overflow: hidden; /* 모달 전체의 스크롤을 숨김 */
+  position: relative;
+}
+
+.asset-detail-container {
+  padding: 20px;
+  height: 100%; /* 전체 컨테이너의 최대 높이 */
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.asset-summary {
+  border: 2.3px solid #403f3f;
+  border-radius: 10px;
+  padding: 40px;
+}
+
+.pie-chart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.legend-list {
+  list-style-type: none;
+  padding: 0;
+  width: 40%;
+  font-size: 20px;
+  font-family: Noto Sans KR;
+  font-weight: 600;
+}
+
+.legend-list li {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.legend-color {
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  margin-right: 8px;
+  border-radius: 50%;
+}
+
+.stock-detail {
+  border-radius: 10px;
+  padding-top: 20px;
+  flex-grow: 1; /* 남은 공간을 이 영역에 할당 */
+  overflow: hidden; /* 내부 스크롤 */
+}
+
+.stock-item {
+  margin-bottom: 20px;
+  height: 100%; /* 각 슬라이드가 전체 높이를 차지하도록 설정 */
+}
+
+.stock-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.stock-type {
+  color: #cc0b3f;
+  font-weight: bold;
+}
+
+.havestock {
+  background-color: black;
+  width: 150px;
+  height: 50px;
+  border-radius: 20px;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 5px;
+}

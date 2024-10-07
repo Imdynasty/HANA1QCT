@@ -1,0 +1,57 @@
+.horizontal-scroll-container3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  /* gap: 20px; */
+  overflow-x: auto;
+  overflow-y: auto;
+  white-space: nowrap;
+  padding: 20px;
+  max-width: 900px;
+  width: 950px;
+  -webkit-overflow-scrolling: touch; /* iOS 스크롤 반응성 향상 */
+
+  max-height: 1020px;
+  border-radius: 20px;
+  margin: 2px;
+  margin-left: 9px;
+  margin-top: 15px;
+}
+.horizontal-scroll-container3.active {
+  cursor: grabbing; /* 드래그 중일 때 커서를 변경 */
+}
+.horizontal-list-item3 {
+  flex: 1 1 calc(33.333% - 20px);
+  max-width: calc(33.333% - 20px);
+  box-sizing: border-box;
+  height: 280px;
+  background-color: #fffbf4;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 15px; /* 내부 패딩 */
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.horizontal-list-item-content {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  text-align: left;
+
+  padding: 5px;
+}
+
+.hover-effect:hover .hover-effectnum {
+  font-weight: bold;
+  transition: font-weight 0.3s ease;
+}
+
+.hover-effectnum {
+  font-weight: normal;
+  transition: font-weight 0.3s ease;
+}

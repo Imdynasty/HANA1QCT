@@ -1,0 +1,140 @@
+.order-form {
+  width: 100%; /* 부모 컴포넌트에 꽉 맞게 설정 */
+  /* margin: auto; */
+  /* padding: 20px; */
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 25px;
+}
+
+.tab-menu {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.tab-menu button {
+  flex: 1;
+  padding: 12px 0; /* 버튼의 높이를 조금 더 높여줌 */
+  border: none;
+  border-bottom: 2px solid transparent;
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 16px; /* 글자 크기를 조금 더 키움 */
+}
+
+.tab-menu .active {
+  color: #e21b3c;
+  border-bottom: 3px solid #e21b3c; /* 선택된 탭의 하단 테두리를 더 두껍게 */
+}
+
+.account-select,
+.stock-search,
+.quantity-price,
+.total-price {
+  margin-bottom: 20px; /* 요소 간의 간격을 조금 더 늘림 */
+  font-size: 20px;
+  font-weight: 600;
+}
+
+input[type="text"],
+input[type="number"],
+select {
+  width: 100%;
+  /* padding: 10px; 패딩을 약간 늘림 */
+  /* margin-top: 5px; */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px; /* 입력 필드의 글자 크기를 조금 더 키움 */
+}
+
+.quantity-price {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center; /* 수량과 단가 필드를 수직으로 중앙 정렬 */
+  width: 100%;
+}
+
+.quantity,
+.price {
+  width: 100%;
+}
+
+.order-button {
+  width: 100%;
+  padding: 15px; /* 버튼의 높이를 더 높임 */
+  background-color: #e21b3c;
+  color: #fff;
+  border: none;
+  border-radius: 8px; /* 버튼의 모서리를 더 둥글게 */
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 18px; /* 버튼 글자 크기를 키움 */
+}
+
+.order-button:hover {
+  background-color: #c2182b;
+}
+
+.credit-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 350px;
+  font-size: 20px;
+}
+
+.stock-search {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.stock-search input {
+  flex: 1;
+  margin-right: 10px; /* 종목명 입력 필드와 종목 코드를 구분 */
+}
+
+.stock-search span {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.total-price {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.orderbuysell {
+  margin: 20px;
+  margin-bottom: 18px;
+  font-family: "Noto Sans KR", sans-serif;
+  /* margin-top: 30px; */
+}
+
+.order-type {
+  width: 50%;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.account-select {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.quantity {
+  margin-bottom: 10px;
+}
+
+.infoorder {
+  margin-left: 10px;
+  margin-right: 5px;
+}

@@ -1,0 +1,262 @@
+html {
+  overflow: hidden;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.background-video {
+  position: relative;
+  width: 100%; /* 컨테이너의 너비 */
+  height: 100vh; /* 전체 화면 높이 */
+  overflow: hidden; /* 넘치는 비디오를 숨김 */
+}
+
+.video-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* 반투명 검은색 오버레이 */
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  color: white;
+  font-size: 2em;
+  z-index: 2; /* 오버레이를 비디오 위에 표시 */
+}
+
+.navhead {
+  position: fixed;
+  top: 10%;
+  width: 50%;
+  z-index: 3;
+}
+.navContainer {
+  display: flex;
+  justify-content: space-between; /* 내용을 좌우 양끝으로 정렬 */
+  align-items: center; /* 세로 중앙 정렬 */
+  max-width: 80%; /* 너비를 최대로 설정 */
+}
+
+.inside-content {
+  left: 10%;
+  position: absolute;
+}
+
+video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: auto;
+  min-width: 100%;
+  height: auto;
+  min-height: 100%;
+  transform: translate(-50%, -50%); /* 중앙 정렬 */
+  z-index: 1; /* 비디오를 오버레이 아래에 표시 */
+}
+/* App.css */
+.slick-slider {
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+}
+
+/* 화살표의 기본 스타일 조정 */
+.slick-prev,
+.slick-next {
+  font-size: 24px; /* 화살표 크기 */
+  line-height: 1; /* 화살표 라인 높이 */
+  opacity: 0.5; /* 화살표 투명도 */
+  position: absolute;
+  top: 50%; /* 중앙 정렬 */
+  z-index: 1; /* 다른 콘텐츠 위에 화살표가 보이도록 함 */
+  transform: translate(0, -50%); /* 중앙 정렬 */
+  cursor: pointer; /* 마우스 포인터 변경 */
+  /* 나타날때 천천히 나타나기 */
+}
+
+.slick-next::before {
+  font-size: 50px;
+  font-weight: 800;
+}
+.slick-prev::before {
+  font-size: 50px;
+  font-weight: 800;
+  color: #484848;
+}
+
+/* 이전 화살표 스타일 */
+.slick-prev {
+  left: 1%; /* 슬라이더의 왼쪽에 10px 거리에 위치 */
+}
+
+/* 다음 화살표 스타일 */
+.slick-next {
+  right: 2%; /* 슬라이더의 오른쪽에 10px 거리에 위치 */
+}
+
+/* 화살표의 호버 효과 */
+.slick-prev:hover,
+.slick-next:hover {
+  opacity: 1; /* 호버 시 불투명도 조정 */
+}
+
+/* 슬라이드의 기본 스타일 */
+.slide2 {
+  height: 90em; /* 슬라이드의 높이 */
+  color: rgb(0, 0, 0); /* 텍스트 색상 */
+  /* background: #f6f7f8; */
+  /* background: red; */
+  display: flex;
+  align-items: center; /* 세로 중앙 정렬 */
+  justify-content: center; /* 가로 중앙 정렬 */
+}
+.slide2-home {
+  background-color: #fefcfd;
+}
+
+.slide2-domestic {
+  background-color: #fbffff;
+}
+
+.slide2-international {
+  background-color: #fefcf8;
+}
+
+.slide2-assets {
+  background-color: #fafefa;
+}
+
+.slide2-default {
+  background-color: #f6f7f8;
+}
+
+.slogan {
+  font-size: 1.8em; /* 슬로건의 글자 크기 */
+  font-weight: 800; /* 슬로건의 글자 두께 */
+}
+.highlight {
+  color: #09d6b0;
+}
+
+.navbar-expand-lg .navbar-toggler {
+  color: white;
+  border: none;
+  background: none;
+  font-size: 35px;
+  display: block;
+}
+
+/* 토글 버튼의 아이콘 색상 변경 */
+/* 토글 버튼의 아이콘 색상과 두께 변경 */
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+/* 토글 버튼의 호버 효과 */
+.navbar-toggler:hover .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.1)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.accordion {
+  position: absolute;
+  bottom: 20%;
+  left: 10%;
+  padding-bottom: 3%;
+}
+.accordion2 {
+  position: absolute;
+  bottom: 10%;
+  left: 10%;
+}
+
+.loader {
+  transform: translateZ(1px);
+  position: absolute;
+  top: 40%;
+}
+.loader:after {
+  content: "H";
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 60px;
+  font-size: 32px;
+  font-weight: bold;
+  background: #fafafa;
+  color: #007d34;
+  border: 4px double;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.1);
+  animation: coin-flip 4s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+@keyframes coin-flip {
+  0%,
+  100% {
+    animation-timing-function: cubic-bezier(0.5, 0, 1, 0.5);
+  }
+  0% {
+    transform: rotateY(0deg);
+  }
+  50% {
+    transform: rotateY(1800deg);
+    animation-timing-function: cubic-bezier(0, 0.5, 0.5, 1);
+  }
+  100% {
+    transform: rotateY(3600deg);
+  }
+}
+
+/* index.css 또는 App.css에 추가 */
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.slide-up-animation {
+  animation: slideUp 0.5s ease-out forwards;
+}

@@ -1,0 +1,125 @@
+.maininfo .spanarrow {
+  transition: padding-left 0.3s ease-in-out;
+}
+
+.maininfo:hover .spanarrow {
+  padding-left: 4px;
+}
+.certification {
+  background-color: rgb(249 250 252);
+  transition: background-color 0.3s ease-in-out;
+}
+.certification:hover {
+  background-color: #e5e5e5;
+}
+
+/* 기존 텍스트 숨기기 */
+.ant-tour-next-btn span {
+  font-size: 0; /* 텍스트 크기를 0으로 설정하여 숨김 */
+}
+
+/* 새 텍스트 추가 */
+.ant-tour-next-btn span::after {
+  content: "다음"; /* 새로운 내용 */
+  font-size: 16px; /* 원래의 폰트 크기 */
+  color: inherit; /* 상속받은 색상 사용 */
+}
+.ant-tour-prev-btn span {
+  font-size: 0; /* 텍스트 크기를 0으로 설정하여 숨김 */
+}
+
+/* 새 텍스트 추가 */
+.ant-tour-prev-btn span::after {
+  content: "이전"; /* 새로운 내용 */
+  font-size: 16px; /* 원래의 폰트 크기 */
+  color: inherit; /* 상속받은 색상 사용 */
+}
+
+.ant-tour-content {
+  width: 400px;
+
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.ant-tour-inner {
+  height: 100%;
+  font-size: 20px;
+}
+.ant-space-item {
+  width: 27.3%;
+  margin-left: 20px;
+}
+
+.rule-button {
+  transform: scale(1);
+}
+.rule-button:hover {
+  /* transform: scale(1.1); */
+  border: 0 !important;
+  background-color: rgb(229, 229, 229) !important;
+  /* color: white !important; */
+}
+
+.ant-input:hover {
+  border-color: #ed6c02 !important;
+}
+.ant-input:focus {
+  border-color: #ed6c02 !important;
+}
+
+.imbutton:hover {
+  border: 1px solid rgb(2 183 207) !important;
+}
+
+.ant-tour-next-btn.overseas:hover {
+  background-color: #0088d1 !important;
+  opacity: 1;
+  border: 0;
+}
+
+.ant-input.overseas:hover {
+  border-color: #0088d1 !important;
+}
+.ant-input.overseas:focus {
+  border-color: #0088d1 !important;
+}
+.ant-tour-next-btn {
+  background-color: #9e9e9e;
+  opacity: 0.8;
+  transition: opacity 0.3s ease-in-out;
+  border: 0;
+}
+
+.ant-tour-next-btn:hover {
+  background-color: #efefef !important;
+
+  opacity: 1;
+  border: 0;
+}
+
+.arrow-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+
+  transition: transform 0.3s ease-in-out; /* 트랜지션을 transform으로 변경 */
+}
+
+.ivestment-report:hover .arrow-container {
+  transform: translateX(
+    20px
+  ); /* hover 시 transform 사용하여 아이콘을 오른쪽으로 이동 */
+}
+
+.ivestment-report {
+  background-color: #f9fafa;
+  transition: box-shadow 0.3s ease-in-out;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+}
+
+.ivestment-report:hover {
+  box-shadow: 0 2px 2px rgba(59, 49, 49, 0.2);
+}

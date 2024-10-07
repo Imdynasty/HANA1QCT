@@ -1,0 +1,60 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '3.3.2'
+    id 'io.spring.dependency-management' version '1.1.6'
+    id 'war' // WAR 플러그인 추가
+}
+
+group = 'MyData'
+version = '0.0.1-SNAPSHOT'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+    providedRuntime // providedRuntime 추가
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    compileOnly 'org.projectlombok:lombok'
+    developmentOnly 'org.springframework.boot:spring-boot-devtools'
+    annotationProcessor 'org.projectlombok:lombok'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    runtimeOnly 'com.mysql:mysql-connector-j'
+
+    // JSP 지원을 위한 의존성
+    providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat' // 내장 Tomcat 제외
+
+    implementation 'org.apache.tomcat.embed:tomcat-embed-jasper'
+    implementation 'javax.servlet:jstl:1.2' // 중복 제거
+    compileOnly 'javax.servlet:javax.servlet-api:4.0.1'
+
+    implementation 'com.google.code.gson:gson:2.8.9'
+    implementation 'net.nurigo:javaSDK:2.2'
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}
+
+// JAR 패키징 비활성화 및 WAR 패키징 활성화
+bootJar {
+    enabled = false
+}
+
+bootWar {
+    enabled = true
+}

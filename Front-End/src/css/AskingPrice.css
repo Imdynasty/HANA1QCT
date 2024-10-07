@@ -1,0 +1,179 @@
+.mainAsking {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  flex-direction: column;
+  height: 330px; /* Ensures the component takes full height */
+  position: relative;
+}
+
+.orderbook-header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+  color: #868686;
+  padding: 5px;
+  position: sticky; /* Keeps the header fixed at the top */
+  top: 0;
+  z-index: 10; /* Ensure it stays on top */
+  font-size: 20px;
+}
+
+.orderbook-footer {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #ccc;
+  font-size: 18px;
+  padding: 5px;
+  position: sticky; /* Keeps the footer fixed at the bottom */
+  bottom: 0;
+  z-index: 10; /* Ensure it stays on top */
+}
+
+.orderbook-header-item,
+.orderbook-footer-item {
+  width: 33.33%;
+  text-align: center;
+  font-weight: 500;
+}
+
+.orderbook-footer-item.one {
+}
+.orderbook-footer-item.two {
+  padding-left: 20px;
+}
+
+.orderbook-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  flex-grow: 1; /* Makes the container take up remaining space */
+  font-size: 19px;
+  font-weight: 500;
+  margin-top: 10px;
+  position: relative;
+}
+
+.orderbook-body {
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+}
+
+.orderbook-row {
+  display: flex;
+  justify-content: flex-end;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.orderbook-rowask {
+  display: flex;
+  justify-content: flex-start;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.orderbook-cellask {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 67%;
+}
+
+.orderbook-cellbid {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 60%;
+}
+
+.ask {
+}
+
+.bid {
+}
+
+/* .orderbook-price {
+  text-align: right;
+} */
+.orderbook-quantity {
+  padding-left: 80px;
+}
+.backcolorask {
+  background-color: #edf3fe;
+}
+.backcolorbid {
+  background-color: #fff5f5;
+}
+.orderbook-quantity2 {
+  padding-right: 70px;
+}
+
+.red-divider {
+  width: 100%;
+  height: 2px;
+  background-color: red;
+  margin: 5px 0;
+}
+.midprice {
+  text-align: center;
+  font-weight: bold;
+}
+
+.boxbox {
+  position: absolute;
+  width: 280px;
+  height: 320%;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  left: 180px;
+}
+.orderbook-price {
+  text-align: left; /* Align price text to the left */
+  width: 100px; /* Fixed width to ensure consistent alignment */
+  display: inline-block;
+}
+
+.percentage-diff {
+  text-align: right; /* Align percentage difference to the right */
+  width: 60px; /* Fixed width to ensure consistent alignment */
+  display: inline-block;
+  margin-left: 10px; /* 자동 마진으로 %를 오른쪽에 붙임 */
+}
+
+.orderbook-cellask .orderbook-price,
+.orderbook-cellbid .orderbook-price {
+  display: flex;
+  justify-content: flex-start; /* Align price text to the left */
+  align-items: center;
+  width: auto;
+}
+
+.openPrice {
+  position: absolute;
+  top: 370px;
+  left: 480px;
+  display: flex;
+  justify-content: space-between;
+  width: 110px;
+}
+
+.lowhighPrice {
+  position: absolute;
+  top: 450px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.subsub {
+  color: red;
+  display: flex;
+  justify-content: space-between;
+  width: 150px;
+}
+.sub2 {
+  color: blue;
+}

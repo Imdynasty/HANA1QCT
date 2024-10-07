@@ -1,0 +1,6 @@
+.overseastock .spanarrow {
+  transition: padding-left 0.3s ease-in-out;
+}
+.overseastock:hover .spanarrow {
+  padding-left: 3px;
+}

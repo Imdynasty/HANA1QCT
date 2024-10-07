@@ -1,0 +1,84 @@
+.stock-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 300px;
+  /* margin: 20px auto; */
+  margin-bottom: 20px;
+}
+
+.character img {
+  width: 120px;
+  /* height: auto; */
+}
+.character {
+  display: flex;
+  align-items: center;
+  width: 350px;
+}
+.character-name {
+  font-size: 15px;
+  font-family: "Nanum Gothic", sans-serif;
+  /* margin-bottom: 5px; */
+}
+.character-level {
+  font-size: 22px;
+  font-family: "Nanum Gothic", sans-serif;
+  margin-bottom: 5px;
+  font-weight: 600;
+  text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.5); /* 텍스트 그림자 추가 */
+
+  /* z-index: 1; */
+}
+
+.orange-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background-color: rgb(253, 88, 88);
+  border-radius: 50%;
+  margin-left: 5px; /* 텍스트와 점 사이의 간격 */
+  margin-top: 30px;
+
+  /* bottom: 2px; 점을 텍스트 아래쪽에 위치시킴 */
+  /* z-index: 100; 다른 요소보다 앞에 오도록 설정 */
+}
+.stock-info {
+  width: 100%;
+  text-align: left;
+}
+
+.stock-name {
+  font-size: 24px;
+  /* font-weight: bold; */
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.stock-price {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.stock-change {
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+}
+.playarrowset {
+  font-size: 18px;
+  font-weight: 100;
+}
+
+.carousel-container {
+  /* width: 100%; */
+  max-width: 400px;
+  margin-left: 60px;
+  /* margin: 0 auto; 가운데 정렬 */
+}

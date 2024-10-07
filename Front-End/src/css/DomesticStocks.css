@@ -1,0 +1,7 @@
+.domesticstock .spanarrow {
+  transition: padding-left 0.3s ease-in-out;
+}
+
+.domesticstock:hover .spanarrow {
+  padding-left: 3px;
+}

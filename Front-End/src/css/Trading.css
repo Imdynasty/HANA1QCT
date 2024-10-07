@@ -1,0 +1,67 @@
+.trading h3 {
+  position: relative;
+  transition: all 0.3s ease-in-out;
+  padding-left: 0;
+}
+
+.trading h3::after {
+  content: "";
+  position: absolute;
+  bottom: 13px; /*h3 텍스트 바로 아래 위치 */
+  left: 0;
+  width: 0; /* 기본적으로 보이지 않음 */
+  height: 2px; /* 밑줄 두께 */
+  background-color: black; /* 밑줄 색상 */
+  transition: width 0.3s ease-in-out;
+}
+
+/* exchange-tab에 마우스 오버되었을 때 h3의 가상 요소 스타일 변경 */
+.trading:hover h3::after {
+  width: 11%; /* 밑줄 전체 길이로 확장 */
+}
+.total-assets-overview {
+  padding: 20px;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.tradingcard {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+  /* border: 2px solid #ababab; */
+  box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.1) !important;
+  padding-bottom: 10px;
+  padding-right: 15px;
+}
+
+.assetcard {
+  box-shadow: none !important;
+  width: 100%;
+}
+
+.assetsummary {
+  width: 50%;
+
+  margin-left: 0px !important;
+  padding: 0 !important;
+}
+.assetsummary1 {
+  width: 50%;
+  padding: 0 !important;
+}
+
+.ant-card-body {
+  padding: 0px;
+}
+
+.asset-detail {
+  cursor: pointer;
+  transform: scale(1);
+  transition: transform 0.3s ease-in-out; /* 애니메이션을 부드럽게 적용 */
+}
+
+.asset-detail:hover {
+  transform: scale(1.1);
+  font-weight: 700;
+}

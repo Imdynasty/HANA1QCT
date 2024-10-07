@@ -1,0 +1,119 @@
+{
+  "ExchangeRate": [
+    {
+      "date": "2024-08-07",
+      "buying_rate": "1396.21",
+      "selling_rate": "1348.19"
+    },
+    {
+      "date": "2024-08-06",
+      "buying_rate": "1384.41",
+      "selling_rate": "1336.79"
+    },
+    {
+      "date": "2024-08-05",
+      "buying_rate": "1396.82",
+      "selling_rate": "1348.78"
+    },
+    {
+      "date": "2024-08-02",
+      "buying_rate": "1389.80",
+      "selling_rate": "1342.00"
+    },
+    {
+      "date": "2024-08-01",
+      "buying_rate": "1404.25",
+      "selling_rate": "1355.95"
+    },
+    {
+      "date": "2024-07-31",
+      "buying_rate": "1408.83",
+      "selling_rate": "1360.37"
+    },
+    {
+      "date": "2024-07-30",
+      "buying_rate": "1406.18",
+      "selling_rate": "1357.82"
+    },
+    {
+      "date": "2024-07-29",
+      "buying_rate": "1409.64",
+      "selling_rate": "1361.16"
+    },
+    {
+      "date": "2024-07-26",
+      "buying_rate": "1409.64",
+      "selling_rate": "1361.16"
+    },
+    {
+      "date": "2024-07-25",
+      "buying_rate": "1409.33",
+      "selling_rate": "1360.87"
+    },
+    {
+      "date": "2024-07-24",
+      "buying_rate": "1409.33",
+      "selling_rate": "1360.87"
+    },
+    {
+      "date": "2024-07-23",
+      "buying_rate": "1412.90",
+      "selling_rate": "1364.30"
+    },
+    {
+      "date": "2024-07-22",
+      "buying_rate": "1410.86",
+      "selling_rate": "1362.34"
+    },
+    {
+      "date": "2024-07-19",
+      "buying_rate": "1404.04",
+      "selling_rate": "1355.76"
+    },
+    {
+      "date": "2024-07-18",
+      "buying_rate": "1405.67",
+      "selling_rate": "1357.33"
+    },
+    {
+      "date": "2024-07-17",
+      "buying_rate": "1410.25",
+      "selling_rate": "1361.75"
+    },
+    {
+      "date": "2024-07-16",
+      "buying_rate": "1406.08",
+      "selling_rate": "1357.72"
+    },
+    {
+      "date": "2024-07-15",
+      "buying_rate": "1400.38",
+      "selling_rate": "1352.22"
+    },
+    {
+      "date": "2024-07-12",
+      "buying_rate": "1404.25",
+      "selling_rate": "1355.95"
+    },
+    {
+      "date": "2024-07-11",
+      "buying_rate": "1409.84",
+      "selling_rate": "1361.36"
+    },
+    {
+      "date": "2024-07-10",
+      "buying_rate": "1407.60",
+      "selling_rate": "1359.20"
+    },
+    {
+      "date": "2024-07-09",
+      "buying_rate": "1403.53",
+      "selling_rate": "1355.27"
+    },
+    {
+      "date": "2024-07-08",
+      "buying_rate": "1403.13",
+      "selling_rate": "1354.87"
+    }
+  ]
+}

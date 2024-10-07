@@ -1,0 +1,2469 @@
+{
+  "kospi": [
+    {
+      "date": "2024- 10- 04",
+      "closing_price": "2,574.68",
+      "variation": "0.49%"
+    },
+    {
+      "date": "2024- 10- 02",
+      "closing_price": "2,561.75",
+      "variation": "-1.22%"
+    },
+    {
+      "date": "2024- 09- 30",
+      "closing_price": "2,593.27",
+      "variation": "-2.13%"
+    },
+    {
+      "date": "2024- 09- 27",
+      "closing_price": "2,649.78",
+      "variation": "-0.82%"
+    },
+    {
+      "date": "2024- 09- 26",
+      "closing_price": "2,671.57",
+      "variation": "2.90%"
+    },
+    {
+      "date": "2024- 09- 25",
+      "closing_price": "2,596.32",
+      "variation": "-1.34%"
+    },
+    {
+      "date": "2024- 09- 24",
+      "closing_price": "2,631.68",
+      "variation": "1.14%"
+    },
+    {
+      "date": "2024- 09- 23",
+      "closing_price": "2,602.01",
+      "variation": "0.33%"
+    },
+    {
+      "date": "2024- 09- 20",
+      "closing_price": "2,593.37",
+      "variation": "0.49%"
+    },
+    {
+      "date": "2024- 09- 19",
+      "closing_price": "2,580.80",
+      "variation": "0.21%"
+    },
+    {
+      "date": "2024- 09- 13",
+      "closing_price": "2,575.41",
+      "variation": "0.13%"
+    },
+    {
+      "date": "2024- 09- 12",
+      "closing_price": "2,572.09",
+      "variation": "2.34%"
+    },
+    {
+      "date": "2024- 09- 11",
+      "closing_price": "2,513.37",
+      "variation": "-0.40%"
+    },
+    {
+      "date": "2024- 09- 10",
+      "closing_price": "2,523.43",
+      "variation": "-0.49%"
+    },
+    {
+      "date": "2024- 09- 09",
+      "closing_price": "2,535.93",
+      "variation": "-0.33%"
+    },
+    {
+      "date": "2024- 09- 06",
+      "closing_price": "2,544.28",
+      "variation": "-1.21%"
+    },
+    {
+      "date": "2024- 09- 05",
+      "closing_price": "2,575.50",
+      "variation": "-0.21%"
+    },
+    {
+      "date": "2024- 09- 04",
+      "closing_price": "2,580.80",
+      "variation": "-3.15%"
+    },
+    {
+      "date": "2024- 09- 03",
+      "closing_price": "2,664.63",
+      "variation": "-0.61%"
+    },
+    {
+      "date": "2024- 09- 02",
+      "closing_price": "2,681.00",
+      "variation": "0.25%"
+    },
+    {
+      "date": "2024- 08- 30",
+      "closing_price": "2,674.31",
+      "variation": "0.45%"
+    },
+    {
+      "date": "2024- 08- 29",
+      "closing_price": "2,662.28",
+      "variation": "-1.02%"
+    },
+    {
+      "date": "2024- 08- 28",
+      "closing_price": "2,689.83",
+      "variation": "0.02%"
+    },
+    {
+      "date": "2024- 08- 27",
+      "closing_price": "2,689.25",
+      "variation": "-0.32%"
+    },
+    {
+      "date": "2024- 08- 26",
+      "closing_price": "2,698.01",
+      "variation": "-0.14%"
+    },
+    {
+      "date": "2024- 08- 23",
+      "closing_price": "2,701.69",
+      "variation": "-0.22%"
+    },
+    {
+      "date": "2024- 08- 22",
+      "closing_price": "2,707.67",
+      "variation": "0.24%"
+    },
+    {
+      "date": "2024- 08- 21",
+      "closing_price": "2,701.13",
+      "variation": "0.17%"
+    },
+    {
+      "date": "2024- 08- 20",
+      "closing_price": "2,696.63",
+      "variation": "0.83%"
+    },
+    {
+      "date": "2024- 08- 19",
+      "closing_price": "2,674.36",
+      "variation": "-0.85%"
+    },
+    {
+      "date": "2024- 08- 16",
+      "closing_price": "2,697.23",
+      "variation": "1.99%"
+    },
+    {
+      "date": "2024- 08- 14",
+      "closing_price": "2,644.50",
+      "variation": "0.88%"
+    },
+    {
+      "date": "2024- 08- 13",
+      "closing_price": "2,621.50",
+      "variation": "0.12%"
+    },
+    {
+      "date": "2024- 08- 12",
+      "closing_price": "2,618.30",
+      "variation": "1.15%"
+    },
+    {
+      "date": "2024- 08- 09",
+      "closing_price": "2,588.43",
+      "variation": "1.24%"
+    },
+    {
+      "date": "2024- 08- 08",
+      "closing_price": "2,556.73",
+      "variation": "-0.45%"
+    },
+    {
+      "date": "2024- 08- 07",
+      "closing_price": "2,568.41",
+      "variation": "1.83%"
+    },
+    {
+      "date": "2024- 08- 06",
+      "closing_price": "2,522.15",
+      "variation": "3.30%"
+    },
+    {
+      "date": "2024- 08- 05",
+      "closing_price": "2,441.55",
+      "variation": "-8.77%"
+    },
+    {
+      "date": "2024- 08- 02",
+      "closing_price": "2,676.19",
+      "variation": "-3.65%"
+    },
+    {
+      "date": "2024- 08- 01",
+      "closing_price": "2,777.68",
+      "variation": "0.25%"
+    },
+    {
+      "date": "2024- 07- 31",
+      "closing_price": "2,770.69",
+      "variation": "1.19%"
+    },
+    {
+      "date": "2024- 07- 30",
+      "closing_price": "2,738.19",
+      "variation": "-0.99%"
+    },
+    {
+      "date": "2024- 07- 29",
+      "closing_price": "2,765.53",
+      "variation": "1.23%"
+    },
+    {
+      "date": "2024- 07- 26",
+      "closing_price": "2,731.90",
+      "variation": "0.78%"
+    },
+    {
+      "date": "2024- 07- 25",
+      "closing_price": "2,710.65",
+      "variation": "-1.74%"
+    },
+    {
+      "date": "2024- 07- 24",
+      "closing_price": "2,758.71",
+      "variation": "-0.56%"
+    },
+    {
+      "date": "2024- 07- 23",
+      "closing_price": "2,774.29",
+      "variation": "0.39%"
+    },
+    {
+      "date": "2024- 07- 22",
+      "closing_price": "2,763.51",
+      "variation": "-1.14%"
+    },
+    {
+      "date": "2024- 07- 19",
+      "closing_price": "2,795.46",
+      "variation": "-1.02%"
+    },
+    {
+      "date": "2024- 07- 18",
+      "closing_price": "2,824.35",
+      "variation": "-0.67%"
+    },
+    {
+      "date": "2024- 07- 17",
+      "closing_price": "2,843.29",
+      "variation": "-0.80%"
+    },
+    {
+      "date": "2024- 07- 16",
+      "closing_price": "2,866.09",
+      "variation": "0.18%"
+    },
+    {
+      "date": "2024- 07- 15",
+      "closing_price": "2,860.92",
+      "variation": "0.14%"
+    },
+    {
+      "date": "2024- 07- 12",
+      "closing_price": "2,857.00",
+      "variation": "-1.19%"
+    },
+    {
+      "date": "2024- 07- 11",
+      "closing_price": "2,891.35",
+      "variation": "0.81%"
+    },
+    {
+      "date": "2024- 07- 10",
+      "closing_price": "2,867.99",
+      "variation": "0.02%"
+    },
+    {
+      "date": "2024- 07- 09",
+      "closing_price": "2,867.38",
+      "variation": "0.34%"
+    },
+    {
+      "date": "2024- 07- 08",
+      "closing_price": "2,857.76",
+      "variation": "-0.16%"
+    },
+    {
+      "date": "2024- 07- 05",
+      "closing_price": "2,862.23",
+      "variation": "1.32%"
+    },
+    {
+      "date": "2024- 07- 04",
+      "closing_price": "2,824.94",
+      "variation": "1.11%"
+    },
+    {
+      "date": "2024- 07- 03",
+      "closing_price": "2,794.01",
+      "variation": "0.47%"
+    },
+    {
+      "date": "2024- 07- 02",
+      "closing_price": "2,780.86",
+      "variation": "-0.84%"
+    },
+    {
+      "date": "2024- 07- 01",
+      "closing_price": "2,804.31",
+      "variation": "0.23%"
+    },
+    {
+      "date": "2024- 06- 28",
+      "closing_price": "2,797.82",
+      "variation": "0.49%"
+    },
+    {
+      "date": "2024- 06- 27",
+      "closing_price": "2,784.06",
+      "variation": "-0.29%"
+    },
+    {
+      "date": "2024- 06- 26",
+      "closing_price": "2,792.05",
+      "variation": "0.64%"
+    },
+    {
+      "date": "2024- 06- 25",
+      "closing_price": "2,774.39",
+      "variation": "0.35%"
+    },
+    {
+      "date": "2024- 06- 24",
+      "closing_price": "2,764.73",
+      "variation": "-0.70%"
+    },
+    {
+      "date": "2024- 06- 21",
+      "closing_price": "2,784.26",
+      "variation": "-0.83%"
+    },
+    {
+      "date": "2024- 06- 20",
+      "closing_price": "2,807.63",
+      "variation": "0.37%"
+    },
+    {
+      "date": "2024- 06- 19",
+      "closing_price": "2,797.33",
+      "variation": "1.21%"
+    },
+    {
+      "date": "2024- 06- 18",
+      "closing_price": "2,763.92",
+      "variation": "0.72%"
+    },
+    {
+      "date": "2024- 06- 17",
+      "closing_price": "2,744.10",
+      "variation": "-0.52%"
+    },
+    {
+      "date": "2024- 06- 14",
+      "closing_price": "2,758.42",
+      "variation": "0.13%"
+    },
+    {
+      "date": "2024- 06- 13",
+      "closing_price": "2,754.89",
+      "variation": "0.98%"
+    },
+    {
+      "date": "2024- 06- 12",
+      "closing_price": "2,728.17",
+      "variation": "0.84%"
+    },
+    {
+      "date": "2024- 06- 11",
+      "closing_price": "2,705.32",
+      "variation": "0.15%"
+    },
+    {
+      "date": "2024- 06- 10",
+      "closing_price": "2,701.17",
+      "variation": "-0.79%"
+    },
+    {
+      "date": "2024- 06- 07",
+      "closing_price": "2,722.67",
+      "variation": "1.23%"
+    },
+    {
+      "date": "2024- 06- 05",
+      "closing_price": "2,689.50",
+      "variation": "1.03%"
+    },
+    {
+      "date": "2024- 06- 04",
+      "closing_price": "2,662.10",
+      "variation": "-0.76%"
+    },
+    {
+      "date": "2024- 06- 03",
+      "closing_price": "2,682.52",
+      "variation": "1.74%"
+    },
+    {
+      "date": "2024- 05- 31",
+      "closing_price": "2,636.52",
+      "variation": "0.04%"
+    },
+    {
+      "date": "2024- 05- 30",
+      "closing_price": "2,635.44",
+      "variation": "-1.56%"
+    },
+    {
+      "date": "2024- 05- 29",
+      "closing_price": "2,677.30",
+      "variation": "-1.67%"
+    },
+    {
+      "date": "2024- 05- 28",
+      "closing_price": "2,722.85",
+      "variation": "-0.01%"
+    },
+    {
+      "date": "2024- 05- 27",
+      "closing_price": "2,722.99",
+      "variation": "1.32%"
+    },
+    {
+      "date": "2024- 05- 24",
+      "closing_price": "2,687.60",
+      "variation": "-1.26%"
+    },
+    {
+      "date": "2024- 05- 23",
+      "closing_price": "2,721.81",
+      "variation": "-0.06%"
+    },
+    {
+      "date": "2024- 05- 22",
+      "closing_price": "2,723.46",
+      "variation": "-0.03%"
+    },
+    {
+      "date": "2024- 05- 21",
+      "closing_price": "2,724.18",
+      "variation": "-0.65%"
+    },
+    {
+      "date": "2024- 05- 20",
+      "closing_price": "2,742.14",
+      "variation": "0.64%"
+    },
+    {
+      "date": "2024- 05- 17",
+      "closing_price": "2,724.62",
+      "variation": "-1.03%"
+    },
+    {
+      "date": "2024- 05- 16",
+      "closing_price": "2,753.00",
+      "variation": "0.83%"
+    },
+    {
+      "date": "2024- 05- 14",
+      "closing_price": "2,730.34",
+      "variation": "0.11%"
+    },
+    {
+      "date": "2024- 05- 13",
+      "closing_price": "2,727.21",
+      "variation": "-0.02%"
+    },
+    {
+      "date": "2024- 05- 10",
+      "closing_price": "2,727.63",
+      "variation": "0.57%"
+    },
+    {
+      "date": "2024- 05- 09",
+      "closing_price": "2,712.14",
+      "variation": "-1.20%"
+    },
+    {
+      "date": "2024- 05- 08",
+      "closing_price": "2,745.05",
+      "variation": "0.39%"
+    },
+    {
+      "date": "2024- 05- 07",
+      "closing_price": "2,734.36",
+      "variation": "2.16%"
+    },
+    {
+      "date": "2024- 05- 03",
+      "closing_price": "2,676.63",
+      "variation": "-0.26%"
+    },
+    {
+      "date": "2024- 05- 02",
+      "closing_price": "2,683.65",
+      "variation": "-0.31%"
+    },
+    {
+      "date": "2024- 05- 01",
+      "closing_price": "2,692.06",
+      "variation": "0.00%"
+    },
+    {
+      "date": "2024- 04- 30",
+      "closing_price": "2,692.06",
+      "variation": "0.17%"
+    },
+    {
+      "date": "2024- 04- 29",
+      "closing_price": "2,687.44",
+      "variation": "1.17%"
+    },
+    {
+      "date": "2024- 04- 26",
+      "closing_price": "2,656.33",
+      "variation": "1.05%"
+    },
+    {
+      "date": "2024- 04- 25",
+      "closing_price": "2,628.62",
+      "variation": "-1.76%"
+    },
+    {
+      "date": "2024- 04- 24",
+      "closing_price": "2,675.75",
+      "variation": "2.01%"
+    },
+    {
+      "date": "2024- 04- 23",
+      "closing_price": "2,623.02",
+      "variation": "-0.24%"
+    },
+    {
+      "date": "2024- 04- 22",
+      "closing_price": "2,629.44",
+      "variation": "1.45%"
+    },
+    {
+      "date": "2024- 04- 19",
+      "closing_price": "2,591.86",
+      "variation": "-1.63%"
+    },
+    {
+      "date": "2024- 04- 18",
+      "closing_price": "2,634.70",
+      "variation": "1.95%"
+    },
+    {
+      "date": "2024- 04- 17",
+      "closing_price": "2,584.18",
+      "variation": "-0.98%"
+    },
+    {
+      "date": "2024- 04- 16",
+      "closing_price": "2,609.63",
+      "variation": "-2.28%"
+    },
+    {
+      "date": "2024- 04- 15",
+      "closing_price": "2,670.43",
+      "variation": "-0.42%"
+    },
+    {
+      "date": "2024- 04- 12",
+      "closing_price": "2,681.82",
+      "variation": "-0.93%"
+    },
+    {
+      "date": "2024- 04- 11",
+      "closing_price": "2,706.96",
+      "variation": "0.07%"
+    },
+    {
+      "date": "2024- 04- 09",
+      "closing_price": "2,705.16",
+      "variation": "-0.46%"
+    },
+    {
+      "date": "2024- 04- 08",
+      "closing_price": "2,717.65",
+      "variation": "0.13%"
+    },
+    {
+      "date": "2024- 04- 05",
+      "closing_price": "2,714.21",
+      "variation": "-1.01%"
+    },
+    {
+      "date": "2024- 04- 04",
+      "closing_price": "2,742.00",
+      "variation": "1.29%"
+    },
+    {
+      "date": "2024- 04- 03",
+      "closing_price": "2,706.97",
+      "variation": "-1.68%"
+    },
+    {
+      "date": "2024- 04- 02",
+      "closing_price": "2,753.16",
+      "variation": "0.19%"
+    },
+    {
+      "date": "2024- 04- 01",
+      "closing_price": "2,747.86",
+      "variation": "0.04%"
+    },
+    {
+      "date": "2024- 03- 29",
+      "closing_price": "2,746.63",
+      "variation": "0.03%"
+    },
+    {
+      "date": "2024- 03- 28",
+      "closing_price": "2,745.82",
+      "variation": "-0.34%"
+    },
+    {
+      "date": "2024- 03- 27",
+      "closing_price": "2,755.11",
+      "variation": "-0.07%"
+    },
+    {
+      "date": "2024- 03- 26",
+      "closing_price": "2,757.09",
+      "variation": "0.71%"
+    },
+    {
+      "date": "2024- 03- 25",
+      "closing_price": "2,737.57",
+      "variation": "-0.40%"
+    },
+    {
+      "date": "2024- 03- 22",
+      "closing_price": "2,748.56",
+      "variation": "-0.23%"
+    },
+    {
+      "date": "2024- 03- 21",
+      "closing_price": "2,754.86",
+      "variation": "2.41%"
+    },
+    {
+      "date": "2024- 03- 20",
+      "closing_price": "2,690.14",
+      "variation": "1.28%"
+    },
+    {
+      "date": "2024- 03- 19",
+      "closing_price": "2,656.17",
+      "variation": "-1.10%"
+    },
+    {
+      "date": "2024- 03- 18",
+      "closing_price": "2,685.84",
+      "variation": "0.71%"
+    },
+    {
+      "date": "2024- 03- 15",
+      "closing_price": "2,666.84",
+      "variation": "-1.91%"
+    },
+    {
+      "date": "2024- 03- 14",
+      "closing_price": "2,718.76",
+      "variation": "0.94%"
+    },
+    {
+      "date": "2024- 03- 13",
+      "closing_price": "2,693.57",
+      "variation": "0.44%"
+    },
+    {
+      "date": "2024- 03- 12",
+      "closing_price": "2,681.81",
+      "variation": "0.83%"
+    },
+    {
+      "date": "2024- 03- 11",
+      "closing_price": "2,659.84",
+      "variation": "-0.77%"
+    },
+    {
+      "date": "2024- 03- 08",
+      "closing_price": "2,680.35",
+      "variation": "1.24%"
+    },
+    {
+      "date": "2024- 03- 07",
+      "closing_price": "2,647.62",
+      "variation": "0.23%"
+    },
+    {
+      "date": "2024- 03- 06",
+      "closing_price": "2,641.49",
+      "variation": "-0.30%"
+    },
+    {
+      "date": "2024- 03- 05",
+      "closing_price": "2,649.40",
+      "variation": "-0.93%"
+    },
+    {
+      "date": "2024- 03- 04",
+      "closing_price": "2,674.27",
+      "variation": "1.21%"
+    },
+    {
+      "date": "2024- 02- 29",
+      "closing_price": "2,642.36",
+      "variation": "-0.37%"
+    },
+    {
+      "date": "2024- 02- 28",
+      "closing_price": "2,652.29",
+      "variation": "1.04%"
+    },
+    {
+      "date": "2024- 02- 27",
+      "closing_price": "2,625.05",
+      "variation": "-0.83%"
+    },
+    {
+      "date": "2024- 02- 26",
+      "closing_price": "2,647.08",
+      "variation": "-0.77%"
+    },
+    {
+      "date": "2024- 02- 23",
+      "closing_price": "2,667.70",
+      "variation": "0.13%"
+    },
+    {
+      "date": "2024- 02- 22",
+      "closing_price": "2,664.27",
+      "variation": "0.41%"
+    },
+    {
+      "date": "2024- 02- 21",
+      "closing_price": "2,653.31",
+      "variation": "-0.17%"
+    },
+    {
+      "date": "2024- 02- 20",
+      "closing_price": "2,657.79",
+      "variation": "-0.84%"
+    },
+    {
+      "date": "2024- 02- 19",
+      "closing_price": "2,680.26",
+      "variation": "1.19%"
+    },
+    {
+      "date": "2024- 02- 16",
+      "closing_price": "2,648.76",
+      "variation": "1.34%"
+    },
+    {
+      "date": "2024- 02- 15",
+      "closing_price": "2,613.80",
+      "variation": "-0.25%"
+    },
+    {
+      "date": "2024- 02- 14",
+      "closing_price": "2,620.42",
+      "variation": "-1.10%"
+    },
+    {
+      "date": "2024- 02- 13",
+      "closing_price": "2,649.64",
+      "variation": "1.12%"
+    },
+    {
+      "date": "2024- 02- 08",
+      "closing_price": "2,620.32",
+      "variation": "0.41%"
+    },
+    {
+      "date": "2024- 02- 07",
+      "closing_price": "2,609.58",
+      "variation": "1.30%"
+    },
+    {
+      "date": "2024- 02- 06",
+      "closing_price": "2,576.20",
+      "variation": "-0.58%"
+    },
+    {
+      "date": "2024- 02- 05",
+      "closing_price": "2,591.31",
+      "variation": "-0.92%"
+    },
+    {
+      "date": "2024- 02- 02",
+      "closing_price": "2,615.31",
+      "variation": "2.87%"
+    },
+    {
+      "date": "2024- 02- 01",
+      "closing_price": "2,542.46",
+      "variation": "1.82%"
+    },
+    {
+      "date": "2024- 01- 31",
+      "closing_price": "2,497.09",
+      "variation": "-0.07%"
+    },
+    {
+      "date": "2024- 01- 30",
+      "closing_price": "2,498.81",
+      "variation": "-0.07%"
+    },
+    {
+      "date": "2024- 01- 29",
+      "closing_price": "2,500.65",
+      "variation": "0.89%"
+    },
+    {
+      "date": "2024- 01- 26",
+      "closing_price": "2,478.56",
+      "variation": "0.33%"
+    },
+    {
+      "date": "2024- 01- 25",
+      "closing_price": "2,470.34",
+      "variation": "0.03%"
+    },
+    {
+      "date": "2024- 01- 24",
+      "closing_price": "2,469.69",
+      "variation": "-0.36%"
+    },
+    {
+      "date": "2024- 01- 23",
+      "closing_price": "2,478.61",
+      "variation": "0.58%"
+    },
+    {
+      "date": "2024- 01- 22",
+      "closing_price": "2,464.35",
+      "variation": "-0.34%"
+    },
+    {
+      "date": "2024- 01- 19",
+      "closing_price": "2,472.74",
+      "variation": "1.34%"
+    },
+    {
+      "date": "2024- 01- 18",
+      "closing_price": "2,440.04",
+      "variation": "0.17%"
+    },
+    {
+      "date": "2024- 01- 17",
+      "closing_price": "2,435.90",
+      "variation": "-2.47%"
+    },
+    {
+      "date": "2024- 01- 16",
+      "closing_price": "2,497.59",
+      "variation": "-1.12%"
+    },
+    {
+      "date": "2024- 01- 15",
+      "closing_price": "2,525.99",
+      "variation": "0.04%"
+    },
+    {
+      "date": "2024- 01- 12",
+      "closing_price": "2,525.05",
+      "variation": "-0.60%"
+    },
+    {
+      "date": "2024- 01- 11",
+      "closing_price": "2,540.27",
+      "variation": "-0.07%"
+    },
+    {
+      "date": "2024- 01- 10",
+      "closing_price": "2,541.98",
+      "variation": "-0.75%"
+    },
+    {
+      "date": "2024- 01- 09",
+      "closing_price": "2,561.24",
+      "variation": "-0.26%"
+    },
+    {
+      "date": "2024- 01- 08",
+      "closing_price": "2,567.82",
+      "variation": "-0.40%"
+    },
+    {
+      "date": "2024- 01- 05",
+      "closing_price": "2,578.08",
+      "variation": "-0.35%"
+    },
+    {
+      "date": "2024- 01- 04",
+      "closing_price": "2,587.02",
+      "variation": "-0.78%"
+    },
+    {
+      "date": "2024- 01- 03",
+      "closing_price": "2,607.31",
+      "variation": "-2.34%"
+    },
+    {
+      "date": "2024- 01- 02",
+      "closing_price": "2,669.81",
+      "variation": "0.55%"
+    },
+    {
+      "date": "2023- 12- 28",
+      "closing_price": "2,655.28",
+      "variation": "1.60%"
+    },
+    {
+      "date": "2023- 12- 27",
+      "closing_price": "2,613.50",
+      "variation": "0.42%"
+    },
+    {
+      "date": "2023- 12- 26",
+      "closing_price": "2,602.59",
+      "variation": "0.12%"
+    },
+    {
+      "date": "2023- 12- 22",
+      "closing_price": "2,599.51",
+      "variation": "-0.02%"
+    },
+    {
+      "date": "2023- 12- 21",
+      "closing_price": "2,600.02",
+      "variation": "-0.55%"
+    },
+    {
+      "date": "2023- 12- 20",
+      "closing_price": "2,614.30",
+      "variation": "1.78%"
+    },
+    {
+      "date": "2023- 12- 19",
+      "closing_price": "2,568.55",
+      "variation": "0.07%"
+    },
+    {
+      "date": "2023- 12- 18",
+      "closing_price": "2,566.86",
+      "variation": "0.13%"
+    },
+    {
+      "date": "2023- 12- 15",
+      "closing_price": "2,563.56",
+      "variation": "0.76%"
+    },
+    {
+      "date": "2023- 12- 14",
+      "closing_price": "2,544.18",
+      "variation": "1.34%"
+    },
+    {
+      "date": "2023- 12- 13",
+      "closing_price": "2,510.66",
+      "variation": "-0.97%"
+    },
+    {
+      "date": "2023- 12- 12",
+      "closing_price": "2,535.27",
+      "variation": "0.39%"
+    },
+    {
+      "date": "2023- 12- 11",
+      "closing_price": "2,525.36",
+      "variation": "0.30%"
+    },
+    {
+      "date": "2023- 12- 08",
+      "closing_price": "2,517.85",
+      "variation": "1.03%"
+    },
+    {
+      "date": "2023- 12- 07",
+      "closing_price": "2,492.07",
+      "variation": "-0.13%"
+    },
+    {
+      "date": "2023- 12- 06",
+      "closing_price": "2,495.38",
+      "variation": "0.04%"
+    },
+    {
+      "date": "2023- 12- 05",
+      "closing_price": "2,494.28",
+      "variation": "-0.82%"
+    },
+    {
+      "date": "2023- 12- 04",
+      "closing_price": "2,514.95",
+      "variation": "0.40%"
+    },
+    {
+      "date": "2023- 12- 01",
+      "closing_price": "2,505.01",
+      "variation": "-1.19%"
+    },
+    {
+      "date": "2023- 11- 30",
+      "closing_price": "2,535.29",
+      "variation": "0.61%"
+    },
+    {
+      "date": "2023- 11- 29",
+      "closing_price": "2,519.81",
+      "variation": "-0.08%"
+    },
+    {
+      "date": "2023- 11- 28",
+      "closing_price": "2,521.76",
+      "variation": "1.05%"
+    },
+    {
+      "date": "2023- 11- 27",
+      "closing_price": "2,495.66",
+      "variation": "-0.04%"
+    },
+    {
+      "date": "2023- 11- 24",
+      "closing_price": "2,496.63",
+      "variation": "-0.73%"
+    },
+    {
+      "date": "2023- 11- 23",
+      "closing_price": "2,514.96",
+      "variation": "0.13%"
+    },
+    {
+      "date": "2023- 11- 22",
+      "closing_price": "2,511.70",
+      "variation": "0.05%"
+    },
+    {
+      "date": "2023- 11- 21",
+      "closing_price": "2,510.42",
+      "variation": "0.77%"
+    },
+    {
+      "date": "2023- 11- 20",
+      "closing_price": "2,491.20",
+      "variation": "0.86%"
+    },
+    {
+      "date": "2023- 11- 17",
+      "closing_price": "2,469.85",
+      "variation": "-0.74%"
+    },
+    {
+      "date": "2023- 11- 16",
+      "closing_price": "2,488.18",
+      "variation": "0.06%"
+    },
+    {
+      "date": "2023- 11- 15",
+      "closing_price": "2,486.67",
+      "variation": "2.20%"
+    },
+    {
+      "date": "2023- 11- 14",
+      "closing_price": "2,433.25",
+      "variation": "1.23%"
+    },
+    {
+      "date": "2023- 11- 13",
+      "closing_price": "2,403.76",
+      "variation": "-0.24%"
+    },
+    {
+      "date": "2023- 11- 10",
+      "closing_price": "2,409.66",
+      "variation": "-0.72%"
+    },
+    {
+      "date": "2023- 11- 09",
+      "closing_price": "2,427.08",
+      "variation": "0.23%"
+    },
+    {
+      "date": "2023- 11- 08",
+      "closing_price": "2,421.62",
+      "variation": "-0.91%"
+    },
+    {
+      "date": "2023- 11- 07",
+      "closing_price": "2,443.96",
+      "variation": "-2.33%"
+    },
+    {
+      "date": "2023- 11- 06",
+      "closing_price": "2,502.37",
+      "variation": "5.66%"
+    },
+    {
+      "date": "2023- 11- 03",
+      "closing_price": "2,368.34",
+      "variation": "1.08%"
+    },
+    {
+      "date": "2023- 11- 02",
+      "closing_price": "2,343.12",
+      "variation": "1.81%"
+    },
+    {
+      "date": "2023- 11- 01",
+      "closing_price": "2,301.56",
+      "variation": "1.03%"
+    },
+    {
+      "date": "2023- 10- 31",
+      "closing_price": "2,277.99",
+      "variation": "-1.41%"
+    },
+    {
+      "date": "2023- 10- 30",
+      "closing_price": "2,310.55",
+      "variation": "0.34%"
+    },
+    {
+      "date": "2023- 10- 27",
+      "closing_price": "2,302.81",
+      "variation": "0.16%"
+    },
+    {
+      "date": "2023- 10- 26",
+      "closing_price": "2,299.08",
+      "variation": "-2.71%"
+    },
+    {
+      "date": "2023- 10- 25",
+      "closing_price": "2,363.17",
+      "variation": "-0.85%"
+    },
+    {
+      "date": "2023- 10- 24",
+      "closing_price": "2,383.51",
+      "variation": "1.12%"
+    },
+    {
+      "date": "2023- 10- 23",
+      "closing_price": "2,357.02",
+      "variation": "-0.76%"
+    },
+    {
+      "date": "2023- 10- 20",
+      "closing_price": "2,375.00",
+      "variation": "-1.69%"
+    },
+    {
+      "date": "2023- 10- 19",
+      "closing_price": "2,415.80",
+      "variation": "-1.90%"
+    },
+    {
+      "date": "2023- 10- 18",
+      "closing_price": "2,462.60",
+      "variation": "0.10%"
+    },
+    {
+      "date": "2023- 10- 17",
+      "closing_price": "2,460.17",
+      "variation": "0.98%"
+    },
+    {
+      "date": "2023- 10- 16",
+      "closing_price": "2,436.24",
+      "variation": "-0.81%"
+    },
+    {
+      "date": "2023- 10- 13",
+      "closing_price": "2,456.15",
+      "variation": "-0.95%"
+    },
+    {
+      "date": "2023- 10- 12",
+      "closing_price": "2,479.82",
+      "variation": "1.21%"
+    },
+    {
+      "date": "2023- 10- 11",
+      "closing_price": "2,450.08",
+      "variation": "1.98%"
+    },
+    {
+      "date": "2023- 10- 10",
+      "closing_price": "2,402.58",
+      "variation": "-0.26%"
+    },
+    {
+      "date": "2023- 10- 06",
+      "closing_price": "2,408.73",
+      "variation": "0.21%"
+    },
+    {
+      "date": "2023- 10- 05",
+      "closing_price": "2,403.60",
+      "variation": "-0.09%"
+    },
+    {
+      "date": "2023- 10- 04",
+      "closing_price": "2,405.69",
+      "variation": "-2.41%"
+    },
+    {
+      "date": "2023- 09- 27",
+      "closing_price": "2,465.07",
+      "variation": "0.09%"
+    },
+    {
+      "date": "2023- 09- 26",
+      "closing_price": "2,462.97",
+      "variation": "-1.31%"
+    },
+    {
+      "date": "2023- 09- 25",
+      "closing_price": "2,495.76",
+      "variation": "-0.49%"
+    },
+    {
+      "date": "2023- 09- 22",
+      "closing_price": "2,508.13",
+      "variation": "-0.27%"
+    },
+    {
+      "date": "2023- 09- 21",
+      "closing_price": "2,514.97",
+      "variation": "-1.75%"
+    },
+    {
+      "date": "2023- 09- 20",
+      "closing_price": "2,559.74",
+      "variation": "0.02%"
+    },
+    {
+      "date": "2023- 09- 19",
+      "closing_price": "2,559.21",
+      "variation": "-0.60%"
+    },
+    {
+      "date": "2023- 09- 18",
+      "closing_price": "2,574.72",
+      "variation": "-1.02%"
+    },
+    {
+      "date": "2023- 09- 15",
+      "closing_price": "2,601.28",
+      "variation": "1.10%"
+    },
+    {
+      "date": "2023- 09- 14",
+      "closing_price": "2,572.89",
+      "variation": "1.51%"
+    },
+    {
+      "date": "2023- 09- 13",
+      "closing_price": "2,534.70",
+      "variation": "-0.07%"
+    },
+    {
+      "date": "2023- 09- 12",
+      "closing_price": "2,536.58",
+      "variation": "-0.79%"
+    },
+    {
+      "date": "2023- 09- 11",
+      "closing_price": "2,556.88",
+      "variation": "0.36%"
+    },
+    {
+      "date": "2023- 09- 08",
+      "closing_price": "2,547.68",
+      "variation": "-0.02%"
+    },
+    {
+      "date": "2023- 09- 07",
+      "closing_price": "2,548.26",
+      "variation": "-0.59%"
+    },
+    {
+      "date": "2023- 09- 06",
+      "closing_price": "2,563.34",
+      "variation": "-0.73%"
+    },
+    {
+      "date": "2023- 09- 05",
+      "closing_price": "2,582.18",
+      "variation": "-0.09%"
+    },
+    {
+      "date": "2023- 09- 04",
+      "closing_price": "2,584.55",
+      "variation": "0.81%"
+    },
+    {
+      "date": "2023- 09- 01",
+      "closing_price": "2,563.71",
+      "variation": "0.29%"
+    },
+    {
+      "date": "2023- 08- 31",
+      "closing_price": "2,556.27",
+      "variation": "-0.19%"
+    },
+    {
+      "date": "2023- 08- 30",
+      "closing_price": "2,561.22",
+      "variation": "0.35%"
+    },
+    {
+      "date": "2023- 08- 29",
+      "closing_price": "2,552.16",
+      "variation": "0.34%"
+    },
+    {
+      "date": "2023- 08- 28",
+      "closing_price": "2,543.41",
+      "variation": "0.96%"
+    },
+    {
+      "date": "2023- 08- 25",
+      "closing_price": "2,519.14",
+      "variation": "-0.73%"
+    },
+    {
+      "date": "2023- 08- 24",
+      "closing_price": "2,537.68",
+      "variation": "1.28%"
+    },
+    {
+      "date": "2023- 08- 23",
+      "closing_price": "2,505.50",
+      "variation": "-0.41%"
+    },
+    {
+      "date": "2023- 08- 22",
+      "closing_price": "2,515.74",
+      "variation": "0.28%"
+    },
+    {
+      "date": "2023- 08- 21",
+      "closing_price": "2,508.80",
+      "variation": "0.17%"
+    },
+    {
+      "date": "2023- 08- 18",
+      "closing_price": "2,504.50",
+      "variation": "-0.61%"
+    },
+    {
+      "date": "2023- 08- 17",
+      "closing_price": "2,519.85",
+      "variation": "-0.23%"
+    },
+    {
+      "date": "2023- 08- 16",
+      "closing_price": "2,525.64",
+      "variation": "-1.76%"
+    },
+    {
+      "date": "2023- 08- 14",
+      "closing_price": "2,570.87",
+      "variation": "-0.79%"
+    },
+    {
+      "date": "2023- 08- 11",
+      "closing_price": "2,591.26",
+      "variation": "-0.40%"
+    },
+    {
+      "date": "2023- 08- 10",
+      "closing_price": "2,601.56",
+      "variation": "-0.14%"
+    },
+    {
+      "date": "2023- 08- 09",
+      "closing_price": "2,605.12",
+      "variation": "1.21%"
+    },
+    {
+      "date": "2023- 08- 08",
+      "closing_price": "2,573.98",
+      "variation": "-0.26%"
+    },
+    {
+      "date": "2023- 08- 07",
+      "closing_price": "2,580.71",
+      "variation": "-0.85%"
+    },
+    {
+      "date": "2023- 08- 04",
+      "closing_price": "2,602.80",
+      "variation": "-0.10%"
+    },
+    {
+      "date": "2023- 08- 03",
+      "closing_price": "2,605.39",
+      "variation": "-0.42%"
+    },
+    {
+      "date": "2023- 08- 02",
+      "closing_price": "2,616.47",
+      "variation": "-1.90%"
+    },
+    {
+      "date": "2023- 08- 01",
+      "closing_price": "2,667.07",
+      "variation": "1.31%"
+    },
+    {
+      "date": "2023- 07- 31",
+      "closing_price": "2,632.58",
+      "variation": "0.93%"
+    },
+    {
+      "date": "2023- 07- 28",
+      "closing_price": "2,608.32",
+      "variation": "0.17%"
+    },
+    {
+      "date": "2023- 07- 27",
+      "closing_price": "2,603.81",
+      "variation": "0.44%"
+    },
+    {
+      "date": "2023- 07- 26",
+      "closing_price": "2,592.36",
+      "variation": "-1.67%"
+    },
+    {
+      "date": "2023- 07- 25",
+      "closing_price": "2,636.46",
+      "variation": "0.30%"
+    },
+    {
+      "date": "2023- 07- 24",
+      "closing_price": "2,628.53",
+      "variation": "0.72%"
+    },
+    {
+      "date": "2023- 07- 21",
+      "closing_price": "2,609.76",
+      "variation": "0.37%"
+    },
+    {
+      "date": "2023- 07- 20",
+      "closing_price": "2,600.23",
+      "variation": "-0.31%"
+    },
+    {
+      "date": "2023- 07- 19",
+      "closing_price": "2,608.24",
+      "variation": "0.02%"
+    },
+    {
+      "date": "2023- 07- 18",
+      "closing_price": "2,607.62",
+      "variation": "-0.43%"
+    },
+    {
+      "date": "2023- 07- 17",
+      "closing_price": "2,619.00",
+      "variation": "-0.35%"
+    },
+    {
+      "date": "2023- 07- 14",
+      "closing_price": "2,628.30",
+      "variation": "1.43%"
+    },
+    {
+      "date": "2023- 07- 13",
+      "closing_price": "2,591.23",
+      "variation": "0.64%"
+    },
+    {
+      "date": "2023- 07- 12",
+      "closing_price": "2,574.72",
+      "variation": "0.48%"
+    },
+    {
+      "date": "2023- 07- 11",
+      "closing_price": "2,562.49",
+      "variation": "1.66%"
+    },
+    {
+      "date": "2023- 07- 10",
+      "closing_price": "2,520.70",
+      "variation": "-0.24%"
+    },
+    {
+      "date": "2023- 07- 07",
+      "closing_price": "2,526.71",
+      "variation": "-1.16%"
+    },
+    {
+      "date": "2023- 07- 06",
+      "closing_price": "2,556.29",
+      "variation": "-0.88%"
+    },
+    {
+      "date": "2023- 07- 05",
+      "closing_price": "2,579.00",
+      "variation": "-0.55%"
+    },
+    {
+      "date": "2023- 07- 04",
+      "closing_price": "2,593.31",
+      "variation": "-0.35%"
+    },
+    {
+      "date": "2023- 07- 03",
+      "closing_price": "2,602.47",
+      "variation": "1.49%"
+    },
+    {
+      "date": "2023- 06- 30",
+      "closing_price": "2,564.28",
+      "variation": "0.56%"
+    },
+    {
+      "date": "2023- 06- 29",
+      "closing_price": "2,550.02",
+      "variation": "-0.55%"
+    },
+    {
+      "date": "2023- 06- 28",
+      "closing_price": "2,564.19",
+      "variation": "-0.67%"
+    },
+    {
+      "date": "2023- 06- 27",
+      "closing_price": "2,581.39",
+      "variation": "-0.03%"
+    },
+    {
+      "date": "2023- 06- 26",
+      "closing_price": "2,582.20",
+      "variation": "0.47%"
+    },
+    {
+      "date": "2023- 06- 23",
+      "closing_price": "2,570.10",
+      "variation": "-0.91%"
+    },
+    {
+      "date": "2023- 06- 22",
+      "closing_price": "2,593.70",
+      "variation": "0.43%"
+    },
+    {
+      "date": "2023- 06- 21",
+      "closing_price": "2,582.63",
+      "variation": "-0.86%"
+    },
+    {
+      "date": "2023- 06- 20",
+      "closing_price": "2,604.91",
+      "variation": "-0.18%"
+    },
+    {
+      "date": "2023- 06- 19",
+      "closing_price": "2,609.50",
+      "variation": "-0.62%"
+    },
+    {
+      "date": "2023- 06- 16",
+      "closing_price": "2,625.79",
+      "variation": "0.66%"
+    },
+    {
+      "date": "2023- 06- 15",
+      "closing_price": "2,608.54",
+      "variation": "-0.40%"
+    },
+    {
+      "date": "2023- 06- 14",
+      "closing_price": "2,619.08",
+      "variation": "-0.72%"
+    },
+    {
+      "date": "2023- 06- 13",
+      "closing_price": "2,637.95",
+      "variation": "0.33%"
+    },
+    {
+      "date": "2023- 06- 12",
+      "closing_price": "2,629.35",
+      "variation": "-0.45%"
+    },
+    {
+      "date": "2023- 06- 09",
+      "closing_price": "2,641.16",
+      "variation": "1.16%"
+    },
+    {
+      "date": "2023- 06- 08",
+      "closing_price": "2,610.85",
+      "variation": "-0.18%"
+    },
+    {
+      "date": "2023- 06- 07",
+      "closing_price": "2,615.60",
+      "variation": "0.01%"
+    },
+    {
+      "date": "2023- 06- 05",
+      "closing_price": "2,615.41",
+      "variation": "0.54%"
+    },
+    {
+      "date": "2023- 06- 02",
+      "closing_price": "2,601.36",
+      "variation": "1.25%"
+    },
+    {
+      "date": "2023- 06- 01",
+      "closing_price": "2,569.17",
+      "variation": "-0.31%"
+    },
+    {
+      "date": "2023- 05- 31",
+      "closing_price": "2,577.12",
+      "variation": "-0.32%"
+    },
+    {
+      "date": "2023- 05- 30",
+      "closing_price": "2,585.52",
+      "variation": "1.04%"
+    },
+    {
+      "date": "2023- 05- 26",
+      "closing_price": "2,558.81",
+      "variation": "0.16%"
+    },
+    {
+      "date": "2023- 05- 25",
+      "closing_price": "2,554.69",
+      "variation": "-0.50%"
+    },
+    {
+      "date": "2023- 05- 24",
+      "closing_price": "2,567.45",
+      "variation": "0.00%"
+    },
+    {
+      "date": "2023- 05- 23",
+      "closing_price": "2,567.55",
+      "variation": "0.41%"
+    },
+    {
+      "date": "2023- 05- 22",
+      "closing_price": "2,557.08",
+      "variation": "0.76%"
+    },
+    {
+      "date": "2023- 05- 19",
+      "closing_price": "2,537.79",
+      "variation": "0.89%"
+    },
+    {
+      "date": "2023- 05- 18",
+      "closing_price": "2,515.40",
+      "variation": "0.83%"
+    },
+    {
+      "date": "2023- 05- 17",
+      "closing_price": "2,494.66",
+      "variation": "0.58%"
+    },
+    {
+      "date": "2023- 05- 16",
+      "closing_price": "2,480.24",
+      "variation": "0.04%"
+    },
+    {
+      "date": "2023- 05- 15",
+      "closing_price": "2,479.35",
+      "variation": "0.16%"
+    },
+    {
+      "date": "2023- 05- 12",
+      "closing_price": "2,475.42",
+      "variation": "-0.63%"
+    },
+    {
+      "date": "2023- 05- 11",
+      "closing_price": "2,491.00",
+      "variation": "-0.22%"
+    },
+    {
+      "date": "2023- 05- 10",
+      "closing_price": "2,496.51",
+      "variation": "-0.54%"
+    },
+    {
+      "date": "2023- 05- 09",
+      "closing_price": "2,510.06",
+      "variation": "-0.13%"
+    },
+    {
+      "date": "2023- 05- 08",
+      "closing_price": "2,513.21",
+      "variation": "0.49%"
+    },
+    {
+      "date": "2023- 05- 04",
+      "closing_price": "2,500.94",
+      "variation": "-0.02%"
+    },
+    {
+      "date": "2023- 05- 03",
+      "closing_price": "2,501.40",
+      "variation": "-0.91%"
+    },
+    {
+      "date": "2023- 05- 02",
+      "closing_price": "2,524.39",
+      "variation": "0.91%"
+    },
+    {
+      "date": "2023- 04- 28",
+      "closing_price": "2,501.53",
+      "variation": "0.23%"
+    },
+    {
+      "date": "2023- 04- 27",
+      "closing_price": "2,495.81",
+      "variation": "0.44%"
+    },
+    {
+      "date": "2023- 04- 26",
+      "closing_price": "2,484.83",
+      "variation": "-0.17%"
+    },
+    {
+      "date": "2023- 04- 25",
+      "closing_price": "2,489.02",
+      "variation": "-1.37%"
+    },
+    {
+      "date": "2023- 04- 24",
+      "closing_price": "2,523.50",
+      "variation": "-0.82%"
+    },
+    {
+      "date": "2023- 04- 21",
+      "closing_price": "2,544.40",
+      "variation": "-0.73%"
+    },
+    {
+      "date": "2023- 04- 20",
+      "closing_price": "2,563.11",
+      "variation": "-0.46%"
+    },
+    {
+      "date": "2023- 04- 19",
+      "closing_price": "2,575.08",
+      "variation": "0.16%"
+    },
+    {
+      "date": "2023- 04- 18",
+      "closing_price": "2,571.09",
+      "variation": "-0.19%"
+    },
+    {
+      "date": "2023- 04- 17",
+      "closing_price": "2,575.91",
+      "variation": "0.17%"
+    },
+    {
+      "date": "2023- 04- 14",
+      "closing_price": "2,571.49",
+      "variation": "0.38%"
+    },
+    {
+      "date": "2023- 04- 13",
+      "closing_price": "2,561.66",
+      "variation": "0.43%"
+    },
+    {
+      "date": "2023- 04- 12",
+      "closing_price": "2,550.64",
+      "variation": "0.11%"
+    },
+    {
+      "date": "2023- 04- 11",
+      "closing_price": "2,547.86",
+      "variation": "1.42%"
+    },
+    {
+      "date": "2023- 04- 10",
+      "closing_price": "2,512.08",
+      "variation": "0.87%"
+    },
+    {
+      "date": "2023- 04- 07",
+      "closing_price": "2,490.41",
+      "variation": "1.27%"
+    },
+    {
+      "date": "2023- 04- 06",
+      "closing_price": "2,459.23",
+      "variation": "-1.44%"
+    },
+    {
+      "date": "2023- 04- 05",
+      "closing_price": "2,495.21",
+      "variation": "0.59%"
+    },
+    {
+      "date": "2023- 04- 04",
+      "closing_price": "2,480.51",
+      "variation": "0.33%"
+    },
+    {
+      "date": "2023- 04- 03",
+      "closing_price": "2,472.34",
+      "variation": "-0.18%"
+    },
+    {
+      "date": "2023- 03- 31",
+      "closing_price": "2,476.86",
+      "variation": "0.97%"
+    },
+    {
+      "date": "2023- 03- 30",
+      "closing_price": "2,453.16",
+      "variation": "0.38%"
+    },
+    {
+      "date": "2023- 03- 29",
+      "closing_price": "2,443.92",
+      "variation": "0.37%"
+    },
+    {
+      "date": "2023- 03- 28",
+      "closing_price": "2,434.94",
+      "variation": "1.07%"
+    },
+    {
+      "date": "2023- 03- 27",
+      "closing_price": "2,409.22",
+      "variation": "-0.24%"
+    },
+    {
+      "date": "2023- 03- 24",
+      "closing_price": "2,414.96",
+      "variation": "-0.39%"
+    },
+    {
+      "date": "2023- 03- 23",
+      "closing_price": "2,424.48",
+      "variation": "0.31%"
+    },
+    {
+      "date": "2023- 03- 22",
+      "closing_price": "2,416.96",
+      "variation": "1.20%"
+    },
+    {
+      "date": "2023- 03- 21",
+      "closing_price": "2,388.35",
+      "variation": "0.38%"
+    },
+    {
+      "date": "2023- 03- 20",
+      "closing_price": "2,379.20",
+      "variation": "-0.69%"
+    },
+    {
+      "date": "2023- 03- 17",
+      "closing_price": "2,395.69",
+      "variation": "0.75%"
+    },
+    {
+      "date": "2023- 03- 16",
+      "closing_price": "2,377.91",
+      "variation": "-0.08%"
+    },
+    {
+      "date": "2023- 03- 15",
+      "closing_price": "2,379.72",
+      "variation": "1.31%"
+    },
+    {
+      "date": "2023- 03- 14",
+      "closing_price": "2,348.97",
+      "variation": "-2.56%"
+    },
+    {
+      "date": "2023- 03- 13",
+      "closing_price": "2,410.60",
+      "variation": "0.67%"
+    },
+    {
+      "date": "2023- 03- 10",
+      "closing_price": "2,394.59",
+      "variation": "-1.01%"
+    },
+    {
+      "date": "2023- 03- 09",
+      "closing_price": "2,419.09",
+      "variation": "-0.53%"
+    },
+    {
+      "date": "2023- 03- 08",
+      "closing_price": "2,431.91",
+      "variation": "-1.28%"
+    },
+    {
+      "date": "2023- 03- 07",
+      "closing_price": "2,463.35",
+      "variation": "0.03%"
+    },
+    {
+      "date": "2023- 03- 06",
+      "closing_price": "2,462.62",
+      "variation": "1.26%"
+    },
+    {
+      "date": "2023- 03- 03",
+      "closing_price": "2,432.07",
+      "variation": "0.17%"
+    },
+    {
+      "date": "2023- 03- 02",
+      "closing_price": "2,427.85",
+      "variation": "0.62%"
+    },
+    {
+      "date": "2023- 02- 28",
+      "closing_price": "2,412.85",
+      "variation": "0.42%"
+    },
+    {
+      "date": "2023- 02- 27",
+      "closing_price": "2,402.64",
+      "variation": "-0.87%"
+    },
+    {
+      "date": "2023- 02- 24",
+      "closing_price": "2,423.61",
+      "variation": "-0.63%"
+    },
+    {
+      "date": "2023- 02- 23",
+      "closing_price": "2,439.09",
+      "variation": "0.89%"
+    },
+    {
+      "date": "2023- 02- 22",
+      "closing_price": "2,417.68",
+      "variation": "-1.68%"
+    },
+    {
+      "date": "2023- 02- 21",
+      "closing_price": "2,458.96",
+      "variation": "0.16%"
+    },
+    {
+      "date": "2023- 02- 20",
+      "closing_price": "2,455.12",
+      "variation": "0.16%"
+    },
+    {
+      "date": "2023- 02- 17",
+      "closing_price": "2,451.21",
+      "variation": "-0.98%"
+    },
+    {
+      "date": "2023- 02- 16",
+      "closing_price": "2,475.48",
+      "variation": "1.96%"
+    },
+    {
+      "date": "2023- 02- 15",
+      "closing_price": "2,427.90",
+      "variation": "-1.53%"
+    },
+    {
+      "date": "2023- 02- 14",
+      "closing_price": "2,465.64",
+      "variation": "0.53%"
+    },
+    {
+      "date": "2023- 02- 13",
+      "closing_price": "2,452.70",
+      "variation": "-0.69%"
+    },
+    {
+      "date": "2023- 02- 10",
+      "closing_price": "2,469.73",
+      "variation": "-0.48%"
+    },
+    {
+      "date": "2023- 02- 09",
+      "closing_price": "2,481.52",
+      "variation": "-0.09%"
+    },
+    {
+      "date": "2023- 02- 08",
+      "closing_price": "2,483.64",
+      "variation": "1.30%"
+    },
+    {
+      "date": "2023- 02- 07",
+      "closing_price": "2,451.71",
+      "variation": "0.55%"
+    },
+    {
+      "date": "2023- 02- 06",
+      "closing_price": "2,438.19",
+      "variation": "-1.70%"
+    },
+    {
+      "date": "2023- 02- 03",
+      "closing_price": "2,480.40",
+      "variation": "0.47%"
+    },
+    {
+      "date": "2023- 02- 02",
+      "closing_price": "2,468.88",
+      "variation": "0.78%"
+    },
+    {
+      "date": "2023- 02- 01",
+      "closing_price": "2,449.80",
+      "variation": "1.02%"
+    },
+    {
+      "date": "2023- 01- 31",
+      "closing_price": "2,425.08",
+      "variation": "-1.04%"
+    },
+    {
+      "date": "2023- 01- 30",
+      "closing_price": "2,450.47",
+      "variation": "-1.35%"
+    },
+    {
+      "date": "2023- 01- 27",
+      "closing_price": "2,484.02",
+      "variation": "0.62%"
+    },
+    {
+      "date": "2023- 01- 26",
+      "closing_price": "2,468.65",
+      "variation": "1.65%"
+    },
+    {
+      "date": "2023- 01- 25",
+      "closing_price": "2,428.57",
+      "variation": "1.39%"
+    },
+    {
+      "date": "2023- 01- 20",
+      "closing_price": "2,395.26",
+      "variation": "0.63%"
+    },
+    {
+      "date": "2023- 01- 19",
+      "closing_price": "2,380.34",
+      "variation": "0.51%"
+    },
+    {
+      "date": "2023- 01- 18",
+      "closing_price": "2,368.32",
+      "variation": "-0.47%"
+    },
+    {
+      "date": "2023- 01- 17",
+      "closing_price": "2,379.39",
+      "variation": "-0.85%"
+    },
+    {
+      "date": "2023- 01- 16",
+      "closing_price": "2,399.86",
+      "variation": "0.58%"
+    },
+    {
+      "date": "2023- 01- 13",
+      "closing_price": "2,386.09",
+      "variation": "0.89%"
+    },
+    {
+      "date": "2023- 01- 12",
+      "closing_price": "2,365.10",
+      "variation": "0.24%"
+    },
+    {
+      "date": "2023- 01- 11",
+      "closing_price": "2,359.53",
+      "variation": "0.35%"
+    },
+    {
+      "date": "2023- 01- 10",
+      "closing_price": "2,351.31",
+      "variation": "0.05%"
+    },
+    {
+      "date": "2023- 01- 09",
+      "closing_price": "2,350.19",
+      "variation": "2.63%"
+    },
+    {
+      "date": "2023- 01- 06",
+      "closing_price": "2,289.97",
+      "variation": "1.12%"
+    },
+    {
+      "date": "2023- 01- 05",
+      "closing_price": "2,264.65",
+      "variation": "0.38%"
+    },
+    {
+      "date": "2023- 01- 04",
+      "closing_price": "2,255.98",
+      "variation": "1.68%"
+    },
+    {
+      "date": "2023- 01- 03",
+      "closing_price": "2,218.68",
+      "variation": "-0.31%"
+    },
+    {
+      "date": "2023- 01- 02",
+      "closing_price": "2,225.67",
+      "variation": "-0.48%"
+    },
+    {
+      "date": "2022- 12- 29",
+      "closing_price": "2,236.40",
+      "variation": "-1.93%"
+    },
+    {
+      "date": "2022- 12- 28",
+      "closing_price": "2,280.45",
+      "variation": "-2.24%"
+    },
+    {
+      "date": "2022- 12- 27",
+      "closing_price": "2,332.79",
+      "variation": "0.68%"
+    },
+    {
+      "date": "2022- 12- 26",
+      "closing_price": "2,317.14",
+      "variation": "0.15%"
+    },
+    {
+      "date": "2022- 12- 23",
+      "closing_price": "2,313.69",
+      "variation": "-1.83%"
+    },
+    {
+      "date": "2022- 12- 22",
+      "closing_price": "2,356.73",
+      "variation": "1.19%"
+    },
+    {
+      "date": "2022- 12- 21",
+      "closing_price": "2,328.95",
+      "variation": "-0.19%"
+    },
+    {
+      "date": "2022- 12- 20",
+      "closing_price": "2,333.29",
+      "variation": "-0.80%"
+    },
+    {
+      "date": "2022- 12- 19",
+      "closing_price": "2,352.17",
+      "variation": "-0.33%"
+    },
+    {
+      "date": "2022- 12- 16",
+      "closing_price": "2,360.02",
+      "variation": "-0.04%"
+    },
+    {
+      "date": "2022- 12- 15",
+      "closing_price": "2,360.97",
+      "variation": "-1.60%"
+    },
+    {
+      "date": "2022- 12- 14",
+      "closing_price": "2,399.25",
+      "variation": "1.13%"
+    },
+    {
+      "date": "2022- 12- 13",
+      "closing_price": "2,372.40",
+      "variation": "-0.03%"
+    },
+    {
+      "date": "2022- 12- 12",
+      "closing_price": "2,373.02",
+      "variation": "-0.67%"
+    },
+    {
+      "date": "2022- 12- 09",
+      "closing_price": "2,389.04",
+      "variation": "0.76%"
+    },
+    {
+      "date": "2022- 12- 08",
+      "closing_price": "2,371.08",
+      "variation": "-0.49%"
+    },
+    {
+      "date": "2022- 12- 07",
+      "closing_price": "2,382.81",
+      "variation": "-0.43%"
+    },
+    {
+      "date": "2022- 12- 06",
+      "closing_price": "2,393.16",
+      "variation": "-1.08%"
+    },
+    {
+      "date": "2022- 12- 05",
+      "closing_price": "2,419.32",
+      "variation": "-0.62%"
+    },
+    {
+      "date": "2022- 12- 02",
+      "closing_price": "2,434.33",
+      "variation": "-1.84%"
+    },
+    {
+      "date": "2022- 12- 01",
+      "closing_price": "2,479.84",
+      "variation": "0.30%"
+    },
+    {
+      "date": "2022- 11- 30",
+      "closing_price": "2,472.53",
+      "variation": "1.61%"
+    },
+    {
+      "date": "2022- 11- 29",
+      "closing_price": "2,433.39",
+      "variation": "1.04%"
+    },
+    {
+      "date": "2022- 11- 28",
+      "closing_price": "2,408.27",
+      "variation": "-1.21%"
+    },
+    {
+      "date": "2022- 11- 25",
+      "closing_price": "2,437.86",
+      "variation": "-0.14%"
+    },
+    {
+      "date": "2022- 11- 24",
+      "closing_price": "2,441.33",
+      "variation": "0.96%"
+    },
+    {
+      "date": "2022- 11- 23",
+      "closing_price": "2,418.01",
+      "variation": "0.53%"
+    },
+    {
+      "date": "2022- 11- 22",
+      "closing_price": "2,405.27",
+      "variation": "-0.59%"
+    },
+    {
+      "date": "2022- 11- 21",
+      "closing_price": "2,419.50",
+      "variation": "-1.02%"
+    },
+    {
+      "date": "2022- 11- 18",
+      "closing_price": "2,444.48",
+      "variation": "0.06%"
+    },
+    {
+      "date": "2022- 11- 17",
+      "closing_price": "2,442.90",
+      "variation": "-1.39%"
+    },
+    {
+      "date": "2022- 11- 16",
+      "closing_price": "2,477.45",
+      "variation": "-0.12%"
+    },
+    {
+      "date": "2022- 11- 15",
+      "closing_price": "2,480.33",
+      "variation": "0.23%"
+    },
+    {
+      "date": "2022- 11- 14",
+      "closing_price": "2,474.65",
+      "variation": "-0.34%"
+    },
+    {
+      "date": "2022- 11- 11",
+      "closing_price": "2,483.16",
+      "variation": "3.37%"
+    },
+    {
+      "date": "2022- 11- 10",
+      "closing_price": "2,402.23",
+      "variation": "-0.91%"
+    },
+    {
+      "date": "2022- 11- 09",
+      "closing_price": "2,424.41",
+      "variation": "1.06%"
+    },
+    {
+      "date": "2022- 11- 08",
+      "closing_price": "2,399.04",
+      "variation": "1.15%"
+    },
+    {
+      "date": "2022- 11- 07",
+      "closing_price": "2,371.79",
+      "variation": "0.99%"
+    },
+    {
+      "date": "2022- 11- 04",
+      "closing_price": "2,348.43",
+      "variation": "0.83%"
+    },
+    {
+      "date": "2022- 11- 03",
+      "closing_price": "2,329.17",
+      "variation": "-0.33%"
+    },
+    {
+      "date": "2022- 11- 02",
+      "closing_price": "2,336.87",
+      "variation": "0.07%"
+    },
+    {
+      "date": "2022- 11- 01",
+      "closing_price": "2,335.22",
+      "variation": "1.81%"
+    },
+    {
+      "date": "2022- 10- 31",
+      "closing_price": "2,293.61",
+      "variation": "1.11%"
+    },
+    {
+      "date": "2022- 10- 28",
+      "closing_price": "2,268.40",
+      "variation": "-0.89%"
+    },
+    {
+      "date": "2022- 10- 27",
+      "closing_price": "2,288.78",
+      "variation": "1.74%"
+    },
+    {
+      "date": "2022- 10- 26",
+      "closing_price": "2,249.56",
+      "variation": "0.65%"
+    },
+    {
+      "date": "2022- 10- 25",
+      "closing_price": "2,235.07",
+      "variation": "-0.05%"
+    },
+    {
+      "date": "2022- 10- 24",
+      "closing_price": "2,236.16",
+      "variation": "1.04%"
+    },
+    {
+      "date": "2022- 10- 21",
+      "closing_price": "2,213.12",
+      "variation": "-0.22%"
+    },
+    {
+      "date": "2022- 10- 20",
+      "closing_price": "2,218.09",
+      "variation": "-0.86%"
+    },
+    {
+      "date": "2022- 10- 19",
+      "closing_price": "2,237.44",
+      "variation": "-0.56%"
+    },
+    {
+      "date": "2022- 10- 18",
+      "closing_price": "2,249.95",
+      "variation": "1.36%"
+    },
+    {
+      "date": "2022- 10- 17",
+      "closing_price": "2,219.71",
+      "variation": "0.32%"
+    },
+    {
+      "date": "2022- 10- 14",
+      "closing_price": "2,212.55",
+      "variation": "2.30%"
+    },
+    {
+      "date": "2022- 10- 13",
+      "closing_price": "2,162.87",
+      "variation": "-1.80%"
+    },
+    {
+      "date": "2022- 10- 12",
+      "closing_price": "2,202.47",
+      "variation": "0.47%"
+    },
+    {
+      "date": "2022- 10- 11",
+      "closing_price": "2,192.07",
+      "variation": "-1.83%"
+    },
+    {
+      "date": "2022- 10- 07",
+      "closing_price": "2,232.84",
+      "variation": "-0.22%"
+    },
+    {
+      "date": "2022- 10- 06",
+      "closing_price": "2,237.86",
+      "variation": "1.02%"
+    },
+    {
+      "date": "2022- 10- 05",
+      "closing_price": "2,215.22",
+      "variation": "0.26%"
+    },
+    {
+      "date": "2022- 10- 04",
+      "closing_price": "2,209.38",
+      "variation": "2.50%"
+    }
+  ]
+}

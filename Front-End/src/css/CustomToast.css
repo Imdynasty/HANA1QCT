@@ -1,0 +1,23 @@
+/* CustomToast.css */
+.Toastify__toast {
+  font-size: 20px; /* 텍스트 크기 */
+  padding: 20px; /* 내부 여백 */
+  min-height: 80px; /* 최소 높이 */
+}
+
+.Toastify__toast-body {
+  margin: 0;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.Toastify__toast-icon {
+  width: 30px; /* 아이콘 크기 */
+  height: 30px;
+}
+
+.Toastify__close-button {
+  width: 24px; /* 닫기 버튼 크기 */
+  height: 24px;
+}

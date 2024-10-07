@@ -1,0 +1,27 @@
+.daymonyear {
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 25px;
+  border: 0;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+.actives:hover {
+  color: black !important;
+  /* border: 1px rgb(2 183 207) !important; */
+}
+.actives {
+  border: 1px solid rgb(2 183 207);
+}
+
+.ant-card-bordered {
+  border: 0;
+  box-shadow: 0 3px 1px rgba(0, 0, 0, 0.1);
+}
+
+.ant-card-body {
+  padding: 24px 0px 0px 0px !important;
+}
+
+.list-item {
+  cursor: pointer;
+}
