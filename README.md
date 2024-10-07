@@ -84,7 +84,7 @@
 
 ### 3-1. 발표 ppt
 [발표자료<img src="https://github.com/user-attachments/assets/425f5c3a-8b63-43fe-a80f-91c8306d0315" />
-](/최종프로젝트발표자료.pdf) <br/>
+](/최종프로젝트발표자료.pdf) <br/>
 
 
 ### 3-2. 시연 동영상
