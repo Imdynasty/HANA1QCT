@@ -15,7 +15,7 @@
 - MZ세대를 고객으로 확보하기 위한 중요성을 인지 후 안정성과 간편성을 높인 주식거래 플랫폼 기획
 
 ### 1-2. 서비스 소개
-![스크린샷 2024-10-07 13 23 25](https://github.com/user-attachments/assets/39b3e208-2723-42d6-bfd8-efe7a593fd97)
+![스크린샷 2024-10-11 13 30 29](https://github.com/user-attachments/assets/b8dddc51-8665-4e58-b470-2bf024d5cf4b)
 
  <br/>
 
@@ -36,12 +36,12 @@
 # 2. 프로젝트 응용 기술 개요
 
 ### 2-1. 개발환경
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/88d60194-21a9-44fb-9a3b-d6af45071e97">
 
-![image](https://github.com/user-attachments/assets/29364c6c-35fc-41c8-9c45-a70440226123)
  <br/>
 
 ### 2-2. 시스템 아키텍처
-![스크린샷 2024-10-07 13 24 08](https://github.com/user-attachments/assets/cce714a8-458d-4a6e-b520-5cddad197bd7)
+<img width="1191" alt="스크린샷 2024-10-11 09 19 32" src="https://github.com/user-attachments/assets/57c87da2-4681-4b70-b8ff-d696deeb7c4c">
 
 <br/>
 
@@ -59,7 +59,8 @@
 ### 2-3. 서비스 개발
 
 #### (1) 매매시스템 개발
-![스크린샷 2024-10-07 13 24 25](https://github.com/user-attachments/assets/9feb2262-c1c3-4a33-8ed1-50c848267c75)
+![스크린샷 2024-10-11 13 29 41](https://github.com/user-attachments/assets/92442b32-660a-44c7-9eaf-a9fde334675c)
+![스크린샷 2024-10-11 13 29 45](https://github.com/user-attachments/assets/0bf82dae-0204-4bcf-84e5-81ce025fbc80)
 
 <br/>
 
