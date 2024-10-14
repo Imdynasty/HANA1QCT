@@ -89,7 +89,7 @@
 ### 3-2. 시연 동영상
 
 
-<a href="https://youtu.be/HvK63AAM3xg"><img width="1506" alt="스크린샷 2024-10-07 13 39 59" src="https://github.com/user-attachments/assets/0c9daad2-2303-48d4-a89c-ce40767b8de4"></a><br/>
+<a href="https://youtu.be/8JD0-CBmNds"><img width="1506" alt="스크린샷 2024-10-07 13 39 59" src="https://github.com/user-attachments/assets/0c9daad2-2303-48d4-a89c-ce40767b8de4"></a><br/>
 
 
 # 4. 본인 소개
