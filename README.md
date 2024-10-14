@@ -59,8 +59,8 @@
 ### 2-3. 서비스 개발
 
 #### (1) 매매시스템 개발
-![스크린샷 2024-10-11 13 29 41](https://github.com/user-attachments/assets/92442b32-660a-44c7-9eaf-a9fde334675c)
-![스크린샷 2024-10-11 13 29 45](https://github.com/user-attachments/assets/0bf82dae-0204-4bcf-84e5-81ce025fbc80)
+<img width="1245" alt="스크린샷 2024-10-14 14 35 47" src="https://github.com/user-attachments/assets/5c8bd529-6015-4dd9-88e3-73560d8dee39">
+<img width="1245" alt="스크린샷 2024-10-14 14 38 41" src="https://github.com/user-attachments/assets/0dce0a14-b5d9-4ffc-9ce6-e6cc0e446499">
 
 <br/>
 
